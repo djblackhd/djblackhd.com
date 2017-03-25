@@ -1,0 +1,64 @@
+<html>
+
+<head>
+
+<link href="css-js/accordion.css" rel="stylesheet" type="text/css">
+<title></title>
+
+<base target="main">
+
+</head>
+
+<body>
+
+<button class="accordion">Ajax Database</button>
+<div class="panel">
+<a>Ajax Database</a>: <a href="ajax-database.php" target="main">Ajax Database</a>
+</div>
+
+<button class="accordion">Directory</button>
+<div class="panel">
+<a>Directory</a>: <a href="directory.php" target="main">Directory</a>
+</div>
+
+<button class="accordion">192.168.0.101</button>
+<div class="panel">
+<a>192.168.0.101</a>: <a href="http://192.168.0.101" target="main">192.168.0.101 Web Site</a>
+</div>
+
+<button class="accordion">djblack-pc</button>
+<div class="panel">
+<a>djblack-pc</a>: <a href="http://djblack-pc" target="main">DJ Black-PC Web Site</a>
+</div>
+
+<button class="accordion">Craigslist</button>
+<div class="panel">
+<a>Broker Accounts</a>: <a href="https://docs.google.com/forms/d/1aE1TYu-cGB6OrTmlBKjfq0L6QOCqmi1WqDDBxoLZ4-g/viewform" target="main">Service Clients Form</a> | <a href="https://docs.google.com/spreadsheets/d/1eCm7g7Z1mYoEZrjPU8MgiEgooD3VoCY5mP_geIP7RJM/edit#gid=1536018064" target="main">Broker Form (Responses)</a>
+<p>
+<a>Item Repost</a>: <a href="https://docs.google.com/document/d/14-cFC5OjQnIZS8joafQpTcDsmLSVthG7L5aam6MArTg/edit">Craigslist Repost</a></p>
+</div>
+
+
+
+
+
+
+<script language="javascript" type="text/javascript">
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+    acc[i].onclick = function(){
+        this.classList.toggle("active");
+        this.nextElementSibling.classList.toggle("show");
+  }
+}
+</script>
+<hr>
+<iframe name="main" width="100%" height="400"></iframe>
+<hr>
+
+
+</body>
+
+</html>
