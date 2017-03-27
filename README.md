@@ -1,7 +1,7 @@
-# djblackhd.com
+# <a href="https://sites.google.com/site/djblacksbackyard/">www.djblackhd.com</a>
 <a href="https://sites.google.com/s/0B4cTBfbwlicmdm1QTkxWTGJ6NHM/p/0B4cTBfbwlicmNDUybDdxR3hZWE0/edit" target="_blank">DJ Black HD Computer Scientist</a><br />
 <a href="https://www.facebook.com/DJBLACKHD">DJ Black HD Facebook Page</a><br />
-<a href="http://djblack-pc.dlinkddns.com:85/images/accounts/forsale.php" target="_blank">For Sale Items</a><br />
+<a href="http://blackinamerica.com/cgi-bin/blog.cgi?id=1990949" target="_blank">Black America Page</a><br />
 XML<br />
 <hr>
 <br>
