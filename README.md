@@ -1,10 +1,11 @@
 # <a href="https://sites.google.com/site/djblacksbackyard/">www.djblackhd.com</a>
+<img src="https://sites.google.com/site/djblacksbackyard/_/rsrc/1472764381141/home/DJ%20Black%20HD.jpg?height=150&width=200">
 <a href="https://sites.google.com/s/0B4cTBfbwlicmdm1QTkxWTGJ6NHM/p/0B4cTBfbwlicmNDUybDdxR3hZWE0/edit" target="_blank">DJ Black HD Computer Scientist</a><br />
 <a href="https://www.facebook.com/DJBLACKHD">DJ Black HD Facebook Page</a><br />
 <a href="http://blackinamerica.com/cgi-bin/blog.cgi?id=1990949" target="_blank">Black America Page</a><br />
-XML<br />
+<br />
 <hr>
-<br>
+<pre>
    clone      Clone a repository into a new directory
    init       Create an empty Git repository or reinitialize an existing one
    add        Add file contents to the index
@@ -26,6 +27,7 @@ XML<br />
    fetch      Download objects and refs from another repository
    pull       Fetch from and integrate with another repository or a local branch
    push       Update remote refs along with associated objects
+   </pre>
 <hr>
 
 
