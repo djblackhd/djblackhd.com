@@ -4,6 +4,7 @@
 <a href="https://www.facebook.com/DJBLACKHD">DJ Black HD Facebook Page</a><br />
 <a href="http://blackinamerica.com/cgi-bin/blog.cgi?id=1990949" target="_blank">Black America Page</a><br />
 <br />
+<a href="https://goo.gl/forms/5fAWbmOF9nLZeTLw1">Phone Hacker Form</a>
 <hr>
 <pre>
    clone      Clone a repository into a new directory
