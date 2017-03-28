@@ -3,7 +3,6 @@
 <a href="https://sites.google.com/s/0B4cTBfbwlicmdm1QTkxWTGJ6NHM/p/0B4cTBfbwlicmNDUybDdxR3hZWE0/edit" target="_blank">DJ Black HD Computer Scientist</a><br />
 <a href="https://www.facebook.com/DJBLACKHD">DJ Black HD Facebook Page</a><br />
 <a href="http://blackinamerica.com/cgi-bin/blog.cgi?id=1990949" target="_blank">Black America Page</a><br />
-<br />
 <a href="https://goo.gl/forms/5fAWbmOF9nLZeTLw1">Phone Hacker Form</a>
 <hr>
 <pre>
